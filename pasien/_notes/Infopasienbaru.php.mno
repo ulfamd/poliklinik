@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:id_berobat;datatype:int,name:Nama;datatype:string,name:NIM;datatype:string,name:TTL;datatype:string,name:Jenis Kelamin;datatype:string,name:Jurusan;datatype:string,name:Fakultas;datatype:string,name:Alamat;datatype:string" />
+</info>
